@@ -6,7 +6,8 @@ const Navbar = () => (
     <header className="navbar">
         <nav className="navbar-links">
            <div  className="navbar-logo-main">
-           <img src="./Logo.png" alt="Girman Logo"  /> 
+           <a  href="https://girmantech.com/" target='_blank'>
+            <img src="./Logo.png" alt="Girman Logo"  /> </a>
            </div>
              
         
