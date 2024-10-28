@@ -21,7 +21,9 @@ const HomePage = () => {
 
             {/* Logo and Branding */}
             <div className="logo-container">
+      <a  href="https://girmantech.com/" target='_blank'>
                 <img src= "./Group 1.png" alt="Girman Logo" />
+                </a>
                 <h1 style={{ fontSize: '5em', margin: '20px' }}>Girman</h1>
             </div>
 
