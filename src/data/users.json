@@ -1,0 +1,142 @@
+[
+    {
+        "firstName": "Mukul",
+        "lastName": "Kaushal",
+        "address": "101 River Rd, Anytown",
+        "phoneNumber": "123-456-7891",
+        "details": "Additional details about Mukul Kaushal"
+    },
+    {
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "address": "108 Stark Tower, New York",
+        "phoneNumber": "555-123-4567",
+        "details": "Additional details about Tony Stark"
+    },
+    {
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "address": "456 Brooklyn St, New York",
+        "phoneNumber": "555-234-5678",
+        "details": "Additional details about Steve Rogers"
+    },
+    {
+        "firstName": "Natasha",
+        "lastName": "Romanoff",
+        "address": "789 Shield Ave, Anytown",
+        "phoneNumber": "555-345-6789",
+        "details": "Additional details about Natasha Romanoff"
+    },
+    {
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "address": "101 Gamma Ln, Anytown",
+        "phoneNumber": "555-456-7890",
+        "details": "Additional details about Bruce Banner"
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "address": "102 Queens Blvd, Anytown",
+        "phoneNumber": "555-567-8901",
+        "details": "Additional details about Peter Parker"
+    },
+    {
+        "firstName": "Thor",
+        "lastName": "Odinson",
+        "address": "104 Asgardian Way, Anytown",
+        "phoneNumber": "555-678-9012",
+        "details": "Additional details about Thor Odinson"
+    },
+    {
+        "firstName": "Wanda",
+        "lastName": "Maximoff",
+        "address": "105 Hex Rd, Anytown",
+        "phoneNumber": "555-789-0123",
+        "details": "Additional details about Wanda Maximoff"
+    },
+    {
+        "firstName": "Clint",
+        "lastName": "Barton",
+        "address": "106 Archer St, Anytown",
+        "phoneNumber": "555-890-1234",
+        "details": "Additional details about Clint Barton"
+    },
+    {
+        "firstName": "Stephen",
+        "lastName": "Strange",
+        "address": "107 Bleecker St, New York",
+        "phoneNumber": "555-901-2345",
+        "details": "Additional details about Stephen Strange"
+    },
+    {
+        "firstName": "Carol",
+        "lastName": "Danvers",
+        "address": "108 Air Force Ave, Anytown",
+        "phoneNumber": "555-012-3456",
+        "details": "Additional details about Carol Danvers"
+    },
+    {
+        "firstName": "Scott",
+        "lastName": "Lang",
+        "address": "109 Quantum Rd, Anytown",
+        "phoneNumber": "555-123-4567",
+        "details": "Additional details about Scott Lang"
+    },
+    {
+        "firstName": "Hope",
+        "lastName": "van Dyne",
+        "address": "110 Wasp St, Anytown",
+        "phoneNumber": "555-234-5678",
+        "details": "Additional details about Hope van Dyne"
+    },
+    {
+        "firstName": "T'Challa",
+        "lastName": "Black Panther",
+        "address": "111 Wakanda Way, Anytown",
+        "phoneNumber": "555-345-6789",
+        "details": "Additional details about T'Challa"
+    },
+    {
+        "firstName": "Sam",
+        "lastName": "Wilson",
+        "address": "112 Falcon St, Anytown",
+        "phoneNumber": "555-456-7890",
+        "details": "Additional details about Sam Wilson"
+    },
+    {
+        "firstName": "James",
+        "lastName": "Rhodes",
+        "address": "113 War Machine Dr, Anytown",
+        "phoneNumber": "555-567-8901",
+        "details": "Additional details about James Rhodes"
+    },
+    {
+        "firstName": "Bucky",
+        "lastName": "Barnes",
+        "address": "114 Winter Soldier Ave, Anytown",
+        "phoneNumber": "555-678-9012",
+        "details": "Additional details about Bucky Barnes"
+    },
+    {
+        "firstName": "Shuri",
+        "lastName": "Wakanda",
+        "address": "115 Vibranium Ln, Anytown",
+        "phoneNumber": "555-789-0123",
+        "details": "Additional details about Shuri"
+    },
+    {
+        "firstName": "Nick",
+        "lastName": "Fury",
+        "address": "116 Shield Rd, Anytown",
+        "phoneNumber": "555-890-1234",
+        "details": "Additional details about Nick Fury"
+    },
+    {
+        "firstName": "Rocket",
+        "lastName": "Raccoon",
+        "address": "117 Galaxy St, Anytown",
+        "phoneNumber": "555-901-2345",
+        "details": "Additional details about Rocket Raccoon"
+    }
+]

@@ -1,0 +1,76 @@
+/* src/pages/HomePage.css */
+
+.homepage-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    background: #f0f4fc;
+    height: 100vh;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    background: white;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #0073e6;
+    text-decoration: underline;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.logo-container img {
+    width: 180px;
+    height: 120px;
+    margin-right: 10px;
+}
+
+.search-box {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-input {
+    width: 400px;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid red;
+    border-radius: 4px;
+    outline: none;
+}
+
+.search-input::placeholder {
+    color: #aaa;
+}
+
+.search-input:focus {
+    border-color: #0073e6;
+}
+
+.name-label {
+    margin-top: 20px;
+    color: white;
+    background-color: red;
+    display: inline-block;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 4px;
+}
