@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import '../pages/Homepage.css';
 import Navbar from '../components/Navbar';
 
-const HomePage = () => {
+const HomePage = () => { 
     const [query, setQuery] = useState('');
     const navigate = useNavigate();
 
